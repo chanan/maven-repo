@@ -27,11 +27,6 @@
             <version>3.0</version>
         </dependency>
         <dependency>
-            <groupId>org.reflections</groupId>
-            <artifactId>reflections</artifactId>
-            <version>0.9.9-RC1</version>
-        </dependency>
-        <dependency>
             <groupId>com.typesafe.play</groupId>
             <artifactId>play_2.10</artifactId>
             <version>2.2.1</version>
