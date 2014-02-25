@@ -5,7 +5,7 @@
     <artifactId>playguicestatsd_2.10</artifactId>
     <packaging>jar</packaging>
     <description>PlayGuiceStatsD</description>
-    <version>0.3.0-SNAPSHOT</version>
+    <version>0.3.0</version>
     <name>PlayGuiceStatsD</name>
     <organization>
         <name>playguicestatsd</name>
